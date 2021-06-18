@@ -1,1 +1,1 @@
-# scala-git-training
+# trail-repo
